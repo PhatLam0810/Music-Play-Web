@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             }
             // Xử lí khi click play
             playBtn.onclick = function(){
-                if (audio.readyState === 4) {
+                if (audio.readyState >= 2) {
                 if(app.isPlaying){
                     audio.pause()
                 } else{
@@ -249,14 +249,22 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             randomBtn.onclick = function(){
                 app.isRandom = !app.isRandom
                 app.setConfig('isRandom',app.isRandom)
-                randomBtn.classList.toggle('active', app.isRandom)
+                if (app.isRandom) {
+                    randomBtn.classList.add('active');
+                } else {
+                    randomBtn.classList.remove('active');
+                }
             }
 
             // Xử lí khi active nút repeat
             repeatBtn.onclick = function(e){
                 app.isRepeat = !app.isRepeat
                 app.setConfig('isRepeat',app.isRepeat)
-                repeatBtn.classList.toggle('active', app.isRepeat)
+                if (app.isRepeat) {
+                    repeatBtn.classList.add('active');
+                } else {
+                    repeatBtn.classList.remove('active');
+                }
             }
 
             // Click vào bài hát sẽ phát
