@@ -67,8 +67,8 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             {
                 name : 'Cảm Ơn Vì Đã Yêu',
                 singer : 'Darki ',
-                path : '/assets/music/CAMONVIDAYEU-DarkiVietNamCM1X-14775266.mp3',
-                image : '/assets/img/camonvidayeu.jpg'
+                path : './assets/music/CAMONVIDAYEU-DarkiVietNamCM1X-14775266.mp3',
+                image : './assets/img/camonvidayeu.jpg'
             },
             {
                 name : 'Chúng Ta Chỉ Là Đã Từng',
