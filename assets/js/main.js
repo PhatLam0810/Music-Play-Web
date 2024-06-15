@@ -55,8 +55,8 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             {
                 name : 'Âm Thầm Bên Em',
                 singer : 'Sơn Tùng MTP',
-                path : '/assets/music/AmThamBenEm-SonTungMTP-4066476.mp3',
-                image : '/assets/img/amthambenem.jpg'
+                path : './assets/music/AmThamBenEm-SonTungMTP-4066476.mp3',
+                image : './assets/img/amthambenem.jpg'
             },
             {
                 name : 'Bông Hoa Đẹp Nhát',
