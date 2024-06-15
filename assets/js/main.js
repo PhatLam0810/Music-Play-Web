@@ -61,8 +61,8 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             {
                 name : 'Bông Hoa Đẹp Nhát',
                 singer : 'Quân AP',
-                path : '/assets/music/BongHoaDepNhat-QuanAP-6607955.mp3',
-                image : '/assets/img/bonghoadepnhat.jpg'
+                path : './assets/music/BongHoaDepNhat-QuanAP-6607955.mp3',
+                image : './assets/img/bonghoadepnhat.jpg'
             },
             {
                 name : 'Cảm Ơn Vì Đã Yêu',
