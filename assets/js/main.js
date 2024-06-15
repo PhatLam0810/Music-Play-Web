@@ -31,26 +31,26 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             {
                 name : 'Thời gian sẽ chữa lành tất cả',
                 singer : 'Lâm Phúc',
-                path : '/assets/music/ThoiGianSeChuaLanhTatCa-LamPhuc-14233024.mp3',
-                image : '/assets/img/thoigiansechualanhtatca.jpg'
+                path : './assets/music/ThoiGianSeChuaLanhTatCa-LamPhuc-14233024.mp3',
+                image : './assets/img/thoigiansechualanhtatca.jpg'
             },
             {
                 name : 'Giá như em nhìn lại',
                 singer : 'JSOL',
-                path : '/assets/music/GiaNhuEmNhinLai-JSOL-13090066.mp3',
-                image : '/assets/img/gianhuemnhinlai.jpg'
+                path : './assets/music/GiaNhuEmNhinLai-JSOL-13090066.mp3',
+                image : './assets/img/gianhuemnhinlai.jpg'
             },
             {
                 name : 'Đau nhất là lặng im',
                 singer : 'ERIK',
-                path : '/assets/music/DauNhatLaLangIm-ERIK-7130326.mp3',
-                image : '/assets/img/daunhatlalangim.jfif'
+                path : './assets/music/DauNhatLaLangIm-ERIK-7130326.mp3',
+                image : './assets/img/daunhatlalangim.jfif'
             },
             {
                 name : 'Tình yêu đến sau',
                 singer : 'MyraTran',
-                path : '/assets/music/TinhYeuDenSau-MyraTran-8294285.mp3',
-                image : '/assets/img/tinhyeudensau.webp'
+                path : './assets/music/TinhYeuDenSau-MyraTran-8294285.mp3',
+                image : './assets/img/tinhyeudensau.webp'
             },
             {
                 name : 'Âm Thầm Bên Em',
@@ -73,38 +73,38 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             {
                 name : 'Chúng Ta Chỉ Là Đã Từng',
                 singer : 'Orange',
-                path : '../assets/music/ChungTaChiLaDaTung-HuaKimTuyenOrange-8412421.mp3',
-                image : '../assets/img/chungtachiladatung.jpg'
+                path : './assets/music/ChungTaChiLaDaTung-HuaKimTuyenOrange-8412421.mp3',
+                image : './assets/img/chungtachiladatung.jpg'
             },
             {
                 name : 'Đợi Đến Tháng 13',
                 singer : 'Vũ Thịnh',
-                path : '/assets/music/DoiDenThang13-VuThinh-14132282.mp3',
-                image : '/assets/img/doi den thang 13.jpg'
+                path : './assets/music/DoiDenThang13-VuThinh-14132282.mp3',
+                image : './assets/img/doi den thang 13.jpg'
             },
             {
                 name : 'Gặp Lại Ta Năm 60',
                 singer : 'Orange',
-                path : '/assets/music/GapLaiNamTa60-Orange-13308951.mp3',
-                image : '/assets/img/gaplaitanam60.jpg'
+                path : './assets/music/GapLaiNamTa60-Orange-13308951.mp3',
+                image : './assets/img/gaplaitanam60.jpg'
             },
             {
                 name : 'Là Do Em Xui Thôi',
                 singer : 'Khói Sofia',
-                path : '/assets/music/LaDoEmXuiThoi-KhoiSofiaDanTrangChauDangKhoa-7125647.mp3',
-                image : '/assets/img/ladoemxuithoi.jpg'
+                path : './assets/music/LaDoEmXuiThoi-KhoiSofiaDanTrangChauDangKhoa-7125647.mp3',
+                image : './assets/img/ladoemxuithoi.jpg'
             },
             {
                 name : 'Quá Khứ Đôi Hiện Tại Đơn',
                 singer : 'Đức Phúc',
-                path : '/assets/music/QuaKhuDoiHienTaiDon-DucPhuc-7972765.mp3',
-                image : '/assets/img/quakhudoihientaidon.jpg'
+                path : './assets/music/QuaKhuDoiHienTaiDon-DucPhuc-7972765.mp3',
+                image : './assets/img/quakhudoihientaidon.jpg'
             },
             {
                 name : 'Tìm Được Nhau Khó Thế Nào',
                 singer : 'Anh Tú',
-                path : '/assets/music/TimDuocNhauKhoTheNaoOriginalMovieSoundtrackFromChiaKhoaTramTy-AnhTuTheVoice-7127088.mp3',
-                image : '/assets/img/timduocnhaukhothenao.jpg'
+                path : './assets/music/TimDuocNhauKhoTheNaoOriginalMovieSoundtrackFromChiaKhoaTramTy-AnhTuTheVoice-7127088.mp3',
+                image : './assets/img/timduocnhaukhothenao.jpg'
             },
            
          
