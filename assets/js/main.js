@@ -162,13 +162,13 @@ document.addEventListener("DOMContentLoaded", function () { //Đảm bảo conte
             }
             // Xử lí khi click play
             playBtn.onclick = function(){
-                if (audio.readyState >= 2) {
+                
                 if(app.isPlaying){
                     audio.pause()
                 } else{
                     audio.play()
                 }
-            }
+            
             }
             // Khi song được play
             audio.onplay = function(){
